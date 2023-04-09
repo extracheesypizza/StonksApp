@@ -6,5 +6,5 @@ This QT application allows the user to keep track of their stock portfolio. Thro
 ## How to use:
 - You may either load your portfolio off a .csv file or start inputting the information by hand.
 - Click on a stock in the table and press "Information" to see more detailed info about it.
-- Before closing the app make sure to save your portfolio by exporting it as a .csvc file.
+- Before closing the app make sure to save your portfolio by exporting it as a .csv file.
 
